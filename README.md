@@ -19,7 +19,7 @@ set Sudo user Id in line 8 Alarm.lua and run:
 ```sh
 ./start.sh
 ```
-For Send Online Status Message Go To A chat And Send /setrealm Command And Relunch Again
+For Send Online Status Message Go To A chat And Send /setrealm Command And Relaunch Again
 
 # Developers
 
