@@ -10,8 +10,6 @@ cd Alarm
 
 chmod +x start.sh
 
-chmod +x tg
-
 ./start.sh install
 
 ```
